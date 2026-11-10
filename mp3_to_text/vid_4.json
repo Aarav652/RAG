@@ -1,94 +1,214 @@
 {
-    "chunked": [
-        {
-            "start": 0.0,
-            "end": 7.12,
-            "text": " Exactly same thing is, exactly same thing is, very similar things are."
-        },
-        {
-            "start": 7.12,
-            "end": 11.18,
-            "text": " So you follow along very easily, don't you not get attention, but you will not get attention."
-        },
-        {
-            "start": 11.18,
-            "end": 14.540000000000001,
-            "text": " I will tell you about some extensions, I will tell you a little bit, and you will have fun."
-        },
-        {
-            "start": 14.540000000000001,
-            "end": 19.240000000000002,
-            "text": " I will tell you that extensions are used, and you will tell me what you recommend."
-        },
-        {
-            "start": 19.240000000000002,
-            "end": 25.12,
-            "text": " But I will tell you a little bit, and this is criminally underrated, I will tell you that you will have fun."
-        },
-        {
-            "start": 25.12,
-            "end": 27.28,
-            "text": " I will tell you about it first, I will tell you a little bit here."
-        },
-        {
-            "start": 27.28,
-            "end": 28.080000000000002,
-            "text": ""
-        },
-        {
-            "start": 57.28,
-            "end": 63.28,
-            "text": " I just want to know how to know."
-        },
-        {
-            "start": 63.28,
-            "end": 70.28,
-            "text": " The screencast mode is the setting we can change the settings."
-        },
-        {
-            "start": 70.28,
-            "end": 74.28,
-            "text": " Here is the screencast mode of vertical offset."
-        },
-        {
-            "start": 74.28,
-            "end": 76.28,
-            "text": " If I am vertical offset 0, it will be up."
-        },
-        {
-            "start": 76.28,
-            "end": 79.28,
-            "text": " If I am vertical offset 70, it will be up."
-        },
-        {
-            "start": 79.28,
-            "end": 82.28,
-            "text": " I will 60."
-        },
-        {
-            "start": 82.28,
-            "end": 86.28,
-            "text": " If I am 80, it will be up."
-        },
-        {
-            "start": 86.28,
-            "end": 87.28,
-            "text": ""
-        },
-        {
-            "start": 116.28,
-            "end": 117.28,
-            "text": ""
-        },
-        {
-            "start": 146.28,
-            "end": 147.28,
-            "text": ""
-        },
-        {
-            "start": 176.28,
-            "end": 177.28,
-            "text": ""
-        }
-    ]
+  "chunked": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": " exactly same thing is similar things are exactly same, not very similar things are.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 7.0,
+      "end": 11.0,
+      "text": " So you can follow along very easily, not to be able to do any more.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 11.0,
+      "end": 19.0,
+      "text": " I will tell you some extensions I will tell you a little bit about it and you will tell me that it will be fun.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 19.0,
+      "end": 23.0,
+      "text": " But I will tell you a little bit about it and this is criminally underrated,",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": " I will tell you a little bit about it, I will tell you a little bit about it.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 28.0,
+      "end": 30.88,
+      "text": " I will tell you a little bit about it with a hat on the bot x palette lab information and the last",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 30.88,
+      "end": 33.0,
+      "text": " section of this all I will tell you its scan,",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 33.0,
+      "end": 36.5,
+      "text": " this is it for you will tell me everything is separated by clicking and not totally on the Mum key x",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 36.5,
+      "end": 40.0,
+      "text": " and now you can do it the same thing of akuah fix up.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 40.0,
+      "end": 43.0,
+      "text": " So then this part I will show you the other thing iniciable the superior guide tab darf",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 43.0,
+      "end": 44.42,
+      "text": " dan g- \uc0c8\ub85c ik\ufffdificaci\u00f3n i.g AFDC Elena Cucarec hearing \uc8fc\ub294 cam",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 44.42,
+      "end": 52.28,
+      "text": "\u0438\u044f bup\u00fcm copy, close engage has a look indianschu ilikia whatever i let that",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 52.28,
+      "end": 55.0,
+      "text": " down go, it will tell us what lukii is the same one thing,",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 55.24,
+      "end": 62.38,
+      "text": " gonna\uc810 cannot serious\u554f\u984c",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 62.38,
+      "end": 66.5,
+      "text": " Yes, but I just want to say that the screencast mode is different",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 66.5,
+      "end": 69.42,
+      "text": " so this canhaard the settings much we will change the setting",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 69.42,
+      "end": 72.12,
+      "text": " and see here this screencast mode called vertical offset",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 72.12,
+      "end": 74.32,
+      "text": " vertical offset what mean",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 74.32,
+      "end": 75.52,
+      "text": " vertical offset 0",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 75.52,
+      "end": 76.58,
+      "text": " 1",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 76.58,
+      "end": 78.58,
+      "text": " vertical offset level",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 78.58,
+      "end": 80.38,
+      "text": " even because it will go 0",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 80.38,
+      "end": 81.2,
+      "text": " still 60",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 81.2,
+      "end": 102.12,
+      "text": "\u0422\u0430\u043a",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 102.12,
+      "end": 108.12,
+      "text": " I hope you can know what is this.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 108.12,
+      "end": 110.12,
+      "text": " I forgot to tell you what is this.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 110.12,
+      "end": 113.12,
+      "text": " I will tell you what is this.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 113.12,
+      "end": 115.12,
+      "text": " Welcome page.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 115.12,
+      "end": 118.12,
+      "text": " By any chance, if you zoom in,",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 118.12,
+      "end": 120.12,
+      "text": " I will do the video.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 120.12,
+      "end": 123.12,
+      "text": " Control plus numpad plus add.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 123.12,
+      "end": 125.12,
+      "text": " I will zoom in.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 125.12,
+      "end": 127.12,
+      "text": " I will do the video.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 127.12,
+      "end": 130.12,
+      "text": " Ideally, I would like to see the screen.",
+      "file_name": "vid_4"
+    },
+    {
+      "start": 130.12,
+      "end": 131.12,
+      "text": "",
+      "file_name": "vid_4"
+    }
+  ]
 }

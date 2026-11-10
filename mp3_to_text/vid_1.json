@@ -1,134 +1,203 @@
 {
-    "chunked": [
-        {
-            "start": 0.0,
-            "end": 3.0,
-            "text": " We will start Sigma Web Development Course."
-        },
-        {
-            "start": 3.0,
-            "end": 5.0,
-            "text": " We will start high energy with like this."
-        },
-        {
-            "start": 5.0,
-            "end": 9.0,
-            "text": " I will start a profitable web developer."
-        },
-        {
-            "start": 9.0,
-            "end": 13.0,
-            "text": " This course is modern because the web development has changed over time."
-        },
-        {
-            "start": 13.0,
-            "end": 16.0,
-            "text": " There are many new things, such as Java Scripts,"
-        },
-        {
-            "start": 16.0,
-            "end": 18.0,
-            "text": " which are very easy to do."
-        },
-        {
-            "start": 18.0,
-            "end": 22.0,
-            "text": " There are many technologies that will make it easy to make it."
-        },
-        {
-            "start": 22.0,
-            "end": 25.0,
-            "text": " This course will be for those who will not know."
-        },
-        {
-            "start": 25.0,
-            "end": 29.0,
-            "text": " You will know zero if you want to know web development."
-        },
-        {
-            "start": 30.0,
-            "end": 32.0,
-            "text": " but the next time we will raise the bar like anything."
-        },
-        {
-            "start": 32.0,
-            "end": 35.0,
-            "text": " What we will learn was about learning nowore Spy holy cowuai."
-        },
-        {
-            "start": 35.0,
-            "end": 37.0,
-            "text": " That web eschewel\u043e\u0448es is very profitable."
-        },
-        {
-            "start": 37.0,
-            "end": 41.0,
-            "text": " What I like to learn about eschewel\u043e\u0448es is it will make an estimate of web development."
-        },
-        {
-            "start": 41.0,
-            "end": 43.0,
-            "text": " You will also learn with elements of business verses."
-        },
-        {
-            "start": 43.0,
-            "end": 46.0,
-            "text": " The course will bahng my hard work based on the links of wise learning currently developed"
-        },
-        {
-            "start": 46.0,
-            "end": 49.0,
-            "text": " on happening in the\u83ab."
-        },
-        {
-            "start": 49.0,
-            "end": 51.0,
-            "text": " The design graduatesouts will increase through time and Metromo."
-        },
-        {
-            "start": 51.0,
-            "end": 57.0,
-            "text": " Because I will learn the experiences the enemies they will inform the technology which has changed..."
-        },
-        {
-            "start": 57.0,
-            "end": 67.0,
-            "text": " and also the course content is complete development, front end, back end, database, which you will learn."
-        },
-        {
-            "start": 67.0,
-            "end": 73.0,
-            "text": " Course content exactly what will be done, but you will be able to make a full stack developer."
-        },
-        {
-            "start": 73.0,
-            "end": 79.0,
-            "text": " In the next step, you will learn many projects in the course and in the end of the course."
-        },
-        {
-            "start": 79.0,
-            "end": 83.0,
-            "text": " So you will learn more about the project based learning."
-        },
-        {
-            "start": 83.0,
-            "end": 84.0,
-            "text": ""
-        },
-        {
-            "start": 113.0,
-            "end": 114.0,
-            "text": ""
-        },
-        {
-            "start": 143.0,
-            "end": 144.0,
-            "text": ""
-        },
-        {
-            "start": 173.0,
-            "end": 174.0,
-            "text": "hmmm"
-        }
-    ]
+  "chunked": [
+    {
+      "start": 0.0,
+      "end": 3.3200000000000003,
+      "text": " We will start Sigma Web Development course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 3.3200000000000003,
+      "end": 5.14,
+      "text": " Like this, I will start with High Energy.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 5.14,
+      "end": 6.0,
+      "text": " I will start with this video,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "text": " I will start with Zero from Zero.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": " I will become a profitable Web Developer.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 10.0,
+      "end": 13.0,
+      "text": " This course is modern because Web Development has changed over time.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 13.0,
+      "end": 14.0,
+      "text": " Many new things have been, many new things have been,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 14.0,
+      "end": 16.0,
+      "text": " many such as Java Scripts have been,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": " which have been easy to work.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 18.0,
+      "end": 20.0,
+      "text": " Many of these technologies have been made,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 20.0,
+      "end": 22.0,
+      "text": " which will be easy to make them.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 22.0,
+      "end": 24.0,
+      "text": " This course will be for those people,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 24.0,
+      "end": 25.0,
+      "text": " which will not be able to know.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 25.0,
+      "end": 28.0,
+      "text": " You will know Zero if you have been in Web Development.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 29.0,
+      "end": 30.0,
+      "text": " I will start with you,",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 30.0,
+      "end": 32.0,
+      "text": " but we will raise the bar like anything.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 32.0,
+      "end": 35.0,
+      "text": " What we will learn from this course is that",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": " Web Development is a very profitable thing.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 37.0,
+      "end": 39.0,
+      "text": " I personally have a lot of money.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 39.0,
+      "end": 41.0,
+      "text": " I will learn from Web Development.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": " My mind is that you can be successful in Web Development.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 44.0,
+      "end": 45.0,
+      "text": " You will learn from this course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 45.0,
+      "end": 47.0,
+      "text": " You will learn from this course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 47.0,
+      "end": 49.0,
+      "text": " You will learn from this course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 49.0,
+      "end": 51.0,
+      "text": " This course is a little different.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 51.0,
+      "end": 53.0,
+      "text": " I will learn from this course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 53.0,
+      "end": 55.0,
+      "text": " I will learn from this course.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 56.0,
+      "end": 65.0,
+      "text": " But you have to learn new ways.",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 65.0,
+      "end": 83.0,
+      "text": " There are absolute things you may find available in the Called Cure",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 83.0,
+      "end": 112.98,
+      "text": " Let's roll the intro!",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 113.0,
+      "end": 114.0,
+      "text": "",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 143.0,
+      "end": 144.0,
+      "text": "",
+      "file_name": "vid_1"
+    },
+    {
+      "start": 173.0,
+      "end": 174.0,
+      "text": "",
+      "file_name": "vid_1"
+    }
+  ]
 }
+

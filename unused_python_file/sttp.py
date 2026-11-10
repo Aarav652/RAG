@@ -14,7 +14,9 @@ for mp3 in mp3s:
         chunks.append({
             "start": result['start'],
             "end": result['end'],
-            "text": result['text']
+            "text": result['text'],
+            
+            'file_name': file_name
         })
     with open(f"mp3_to_text/{file_name}.json", "w") as f:
         json.dump(chunks, f, indent=1)
