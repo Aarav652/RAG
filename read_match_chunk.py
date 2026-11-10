@@ -47,4 +47,3 @@ print(new_df)
 
 
 
-create prompt for evey python file so when you come you can understand the things
